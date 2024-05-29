@@ -54,25 +54,10 @@ display: block;
 }
 
 
-#itens{
 
-   
-
-}
-
-
-menu >  a:hover{
-    color: red;
-
-}
 
 .svg{
 padding: 20px;
-
+display: flex;
 }
 
-path{
-
-    padding: 20px;
-
-}
